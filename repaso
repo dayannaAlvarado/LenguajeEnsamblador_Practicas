@@ -1,0 +1,3 @@
+add  dword [n1+1], [n2+1];para sumar directo dos variables
+;para transformar de numero a cadena se suma  cero"0"--> registro,'0'
+ ;para transformar de cadena a numero se resta  cero"0"--> registro,'0'
